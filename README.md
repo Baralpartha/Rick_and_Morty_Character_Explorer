@@ -162,11 +162,7 @@ flutter run
 - Kept UI minimal but clean and responsive
 - Implemented merge logic inside repository for consistency
 
----
 
-## 📦 Submission
-
-- GitHub Repository:(https://github.com/Baralpartha/Rick_and_Morty_Character_Explorer)
 
 ---
 
