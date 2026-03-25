@@ -166,7 +166,7 @@ flutter run
 
 ## 📦 Submission
 
-- GitHub Repository: [Add your link here]
+- GitHub Repository:(https://github.com/Baralpartha/Rick_and_Morty_Character_Explorer)
 
 ---
 
